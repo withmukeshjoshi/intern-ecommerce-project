@@ -1,0 +1,11 @@
+node_modules
+.github
+.husky
+.next
+.vercel
+public
+next.config.js
+postcss.config.js
+commitlint.config.js
+.eslintrc.js
+version-compare.js
