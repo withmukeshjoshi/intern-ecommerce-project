@@ -25,5 +25,3 @@ Practice e-commerce project for internship. You will learn how to design an e-co
     npm run storybook
 
 ## Contact
-
-For any query, drop message on team channel.
